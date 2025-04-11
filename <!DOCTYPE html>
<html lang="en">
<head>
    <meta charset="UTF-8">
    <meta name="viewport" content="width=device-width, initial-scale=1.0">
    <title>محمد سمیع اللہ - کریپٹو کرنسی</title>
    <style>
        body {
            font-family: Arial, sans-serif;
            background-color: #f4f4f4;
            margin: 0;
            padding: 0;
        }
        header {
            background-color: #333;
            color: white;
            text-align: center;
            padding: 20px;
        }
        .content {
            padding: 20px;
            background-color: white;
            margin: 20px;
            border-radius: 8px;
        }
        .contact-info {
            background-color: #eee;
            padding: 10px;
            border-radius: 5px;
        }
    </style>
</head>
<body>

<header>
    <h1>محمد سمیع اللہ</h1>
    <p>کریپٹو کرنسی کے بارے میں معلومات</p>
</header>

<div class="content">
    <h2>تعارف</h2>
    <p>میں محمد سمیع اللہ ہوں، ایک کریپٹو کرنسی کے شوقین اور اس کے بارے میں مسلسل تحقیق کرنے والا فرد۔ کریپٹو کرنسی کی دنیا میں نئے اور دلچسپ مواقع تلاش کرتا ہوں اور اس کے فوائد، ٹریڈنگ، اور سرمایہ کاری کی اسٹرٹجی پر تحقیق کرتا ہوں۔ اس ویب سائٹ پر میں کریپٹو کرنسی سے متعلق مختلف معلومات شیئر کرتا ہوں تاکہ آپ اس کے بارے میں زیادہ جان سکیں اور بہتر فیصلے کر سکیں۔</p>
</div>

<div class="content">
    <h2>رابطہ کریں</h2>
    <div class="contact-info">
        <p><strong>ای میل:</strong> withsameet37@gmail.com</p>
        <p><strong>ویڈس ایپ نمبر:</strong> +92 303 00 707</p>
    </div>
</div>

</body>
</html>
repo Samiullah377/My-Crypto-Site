@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>محمد سمیع اللہ - کریپٹو کرنسی</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .content {
+            padding: 20px;
+            background-color: white;
+            margin: 20px;
+            border-radius: 8px;
+        }
+        .contact-info {
+            background-color: #eee;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>محمد سمیع اللہ</h1>
+    <p>کریپٹو کرنسی کے بارے میں معلومات</p>
+</header>
+
+<div class="content">
+    <h2>تعارف</h2>
+    <p>میں محمد سمیع اللہ ہوں، ایک کریپٹو کرنسی کے شوقین اور اس کے بارے میں مسلسل تحقیق کرنے والا فرد۔ کریپٹو کرنسی کی دنیا میں نئے اور دلچسپ مواقع تلاش کرتا ہوں اور اس کے فوائد، ٹریڈنگ، اور سرمایہ کاری کی اسٹرٹجی پر تحقیق کرتا ہوں۔ اس ویب سائٹ پر میں کریپٹو کرنسی سے متعلق مختلف معلومات شیئر کرتا ہوں تاکہ آپ اس کے بارے میں زیادہ جان سکیں اور بہتر فیصلے کر سکیں۔</p>
+</div>
+
+<div class="content">
+    <h2>رابطہ کریں</h2>
+    <div class="contact-info">
+        <p><strong>ای میل:</strong> withsameet37@gmail.com</p>
+        <p><strong>ویڈس ایپ نمبر:</strong> +92 303 00 707</p>
+    </div>
+</div>
+
+</body>
+</html>
